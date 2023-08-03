@@ -23,8 +23,8 @@ Click the "Generate" button to get a random password that meets your criteria.
 Click the "Copy to Clipboard" icon to copy the generated password to the clipboard for easy use.
 
 # Technologies Used
-HTML.
-CSS.
-JavaScript.
+1. HTML
+2. CSS
+3. JavaScript
 
 ![Screenshot](ss.png)
